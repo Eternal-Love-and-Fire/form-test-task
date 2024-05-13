@@ -3,7 +3,7 @@ import { FormPage } from "./form-page/FormPage";
 
 export const router = createBrowserRouter([
   {
-    path: "/",
+    path: "/form-test-task/",
     element: <FormPage />,
   },
 ]);

@@ -9,9 +9,6 @@ module.exports = {
   ],
   prefix: "",
   theme: {
-    fontFamily: {
-      'geometria': ['Geometria'],
-    },
     container: {
       center: true,
       padding: "2rem",

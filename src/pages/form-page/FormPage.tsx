@@ -48,7 +48,7 @@ export const FormPage = () => {
       <div className="max-w-[1440px] relative 2xl:ml-[232px] flex">
         <div className="h-[800px] -z-10 absolute top-0 left-0 right-0 bg-[#7E89A2]"></div>
         <section className=" w-[93%] 2xl:mt-[104px] mx-auto rounded-xl pl-[35px] pt-[28px] pr-8 shadow-lg bg-white shadow-black">
-          <h3 className="text-[63px] font-extrabold font-geometria text-center text-[#373B5D]">
+          <h3 className="text-[63px] font-extrabold font-sans text-center text-[#373B5D]">
             Заповніть форму
           </h3>
           <div className="w-fit mt-[8px] mx-auto flex justify-center border-2 rounded-sm overflow-hidden border-[#363C5C]">

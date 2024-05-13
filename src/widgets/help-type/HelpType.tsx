@@ -16,7 +16,7 @@ export const HelpType = () => {
 
   return (
     <article className="mt-[70px] 2xl:ml-12">
-      <h2 className="text-[66px] font-extrabold font-geometria text-center text-[#373B5D]">Види допомоги</h2>
+      <h2 className="text-[66px] font-extrabold font-sans text-center text-[#373B5D]">Види допомоги</h2>
       <p className="text-center text-xl opacity-50 text-[#9c9fa1]">
         Ви можете змінити вид допомоги
       </p>
